@@ -3,7 +3,7 @@ This project is based on resolving tasks provided by [SQL Academy](https://sql-a
 
 Data model:
 
-![Data model](/SQL%20challenges/data_model.png)
+![Data model](/Airbnb_data_model.png)
 
 Tasks:
 1. Display housing identifiers and the presence of the Internet in the housing. If there is Internet in the rented housing, then print "YES", otherwise "NO".
